@@ -18,6 +18,5 @@ Por fim, se o investimento não mostrar vir a ser o melhor não me culpem, sou u
 Trabalho realizado tendo por base o seguinte artigo:
 "
 Stock classification using k-means clustering, de Facundo Joel Allia Fernandez
-https://medium.com/@facujallia/stock-classification-using-k-means-clustering-8441f75363de
 "
 
