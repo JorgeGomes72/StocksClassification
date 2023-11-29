@@ -13,17 +13,19 @@ O trabalho passa por diferentes métodos de Data Science e é todo realizado em 
 * obtenção dos preços actuais dos títulos da alínea anterior
 * amostragem final das "melhores" acções em diferentes colorações consoante o seu preço
 
+Elbow curve - seleção do número de clusters K-means:
+![image](https://github.com/JorgeGomes72/StocksClassification/assets/57633568/82aec309-911d-42ab-bbde-04baab05122e)
 
 
-Classificação de títulos com 3 Cluster face ao retorno e volatilidade anual:
+Classificação de títulos com 3 Clusters face ao Retorno e Volatilidade Anual:
 ![image](https://github.com/JorgeGomes72/StocksClassification/assets/57633568/64a3d1e4-7b06-4b81-bed4-9c91ea6e79d1)
 
  
-Remoção de outliers:
+Remoção de Outliers:
 ![image](https://github.com/JorgeGomes72/StocksClassification/assets/57633568/9e6a7183-1919-4bc6-9b92-9ecb4f8f46f9)
 
  
-Títulos com Rentabilidade acima de 10% ao ano e volatilidade inferior a 40%:
+Títulos com Rentabilidade acima de 10% ao ano e Volatilidade inferior a 40%:
 ![image](https://github.com/JorgeGomes72/StocksClassification/assets/57633568/92a54e3b-0208-4d47-b934-78d455670b9a)
 
  
@@ -32,9 +34,7 @@ Seleção de títulos com preços abaixo de 50€:
 
 
 
-
-
-Por fim, se o investimento não mostrar vir a ser o melhor não me culpem, sou um mero Data Scientist!
+Por fim, se o investimento não resultar não me culpem, sou um mero Data Scientist!
 
 Trabalho realizado tendo por base o seguinte artigo:
 "
