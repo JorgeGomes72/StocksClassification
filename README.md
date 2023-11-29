@@ -1,4 +1,4 @@
-# StocksClassification
+# Stock Classification (Clustering)
 Classificação de títulos de bolsa nacionais e internacionais com base em Cluster K-Means
 
 O intuito deste trabalho é encontrar as melhores acções de bolsa a nível "mundial", através dos seus indicadores de retorno e volatibilidade dos últimos dois anos. 
